@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">I am a DevOps Engineer, FullStack Developer and a nurse :)</h3>
+<h3 align="center">I am a DevOps Engineer, a FullStack Developer and a nurse :)</h3>
 
 - 📊 I worked in Analytics at TikTok, Glovo and Uber for the past couple of years.
 
 - 📝 I regularly write articles on [posted.dev](https://posted.dev)
 
-- 💬 Ask me about **DevOps, FullStack and content creation,**
+- 💬 Ask me about **DevOps, FullStack and content creation.**
 
 - ⚡ Fun fact **I am a nurse :)**
 
