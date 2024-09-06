@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">I am a DevOps Engineer, a FullStack Developer and a nurse :)</h3>
+<h3 align="center">I am a DevOps Engineer, a FullStack Developer and a Nurse :)</h3>
 
 - 📝 I regularly write articles on [posted.dev](https://posted.dev)
 
